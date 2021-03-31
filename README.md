@@ -34,7 +34,7 @@
     猿大佬4群 已满
     猿大佬5群 已满
     猿大佬6群 已满
-    猿大佬7群 642652507
+    <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZAbazRyv3ggNdNAJdZl5Wnw46X5nKm2B&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="猿大佬7群" title="猿大佬7群"></a>
 
 #### 特技
 
