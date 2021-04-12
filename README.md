@@ -3,28 +3,27 @@
 	<a href="https://www.yuandalao.com/#/index"><img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-fe88ac54-ee24-4fe0-a14c-fdf4e0a87f4d/ec66a3f7-2c9b-4c4d-baa9-7dbcdba111a9.png" width="400"></a>
 </p>
 <p align="center">
-	<strong>猿大佬助力技术换现</strong>
+	<strong>猿大佬助力技术同胞换现</strong>
 </p>
 <p align="center">
 	
-
-     唯一官网：[平台官网](https://www.yuandalao.com) 
-    开始换现：[技术后台](https://www.yuandalao.com/merchant) 
+   [猿大佬观网](https://www.yuandalao.com)
+   [技术换现后台](https://www.yuandalao.com/merchant)
 	<a target="_blank" href='https://github.com/zhangyd-c/JustAuth'>
 		<img src="https://img.shields.io/github/stars/zhangyd-c/JustAuth.svg?style=social" alt="github star"></img>
 	</a>
 </p>
 
 -------------------------------------------------------------------------------
+
 <p align="center">
-猿大佬1群 已满
-猿大佬2群 已满
-猿大佬3群 已满
-猿大佬4群 已满
-猿大佬5群 已满
-猿大佬6群 已满
-猿大佬7群 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZAbazRyv3ggNdNAJdZl5Wnw46X5nKm2B&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="猿大佬7群" title="猿大佬7群"></a>
-邮箱：yuandalao@foxmail.com
+<p>猿大佬1群 已满</p>
+<p>猿大佬2群 已满</p>
+<p>猿大佬3群 已满</p>
+<p>猿大佬4群 已满</p>
+<p>猿大佬5群 已满</p>
+<p>猿大佬6群 已满</p>
+<p>猿大佬7群 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZAbazRyv3ggNdNAJdZl5Wnw46X5nKm2B&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="猿大佬7群" title="猿大佬7群"></a>
 </p>
 
 -------------------------------------------------------------------------------
@@ -39,8 +38,11 @@
 
 ## 有哪些优势？
   1、海量用户流量：与tb、aliyun紧密合作。
+  
   2、门槛低：个人开发者即可入驻使用。
+  
   3、0抽成：无任何抽成，开发者赚多少，收入即为多少。
+  
 ## 有哪些项目？
  平台内包含商城、社区团购、OA、ERP、Saas、官网（门户店）、餐饮外卖、社交通讯、游戏、财务、只能工具、视频授课等多种系统，其中包括微信小程序、h5、pc、安卓、ios等多端载体！
 
