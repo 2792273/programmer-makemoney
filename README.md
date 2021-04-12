@@ -8,33 +8,30 @@
 <p align="center">
 	
    [猿大佬观网](https://www.yuandalao.com)
+   
    [技术换现后台](https://www.yuandalao.com/merchant)
+<p>
 	<a target="_blank" href='https://github.com/zhangyd-c/JustAuth'>
-		<img src="https://img.shields.io/github/stars/zhangyd-c/JustAuth.svg?style=social" alt="github star"></img>
+		<img src="https://img.shields.io/github/stars/2792273/programmer-makemoney?style=social" alt="github star"></img>
 	</a>
+	<a target="_blank" href="https://gitee.com/hongyanli_admin/programmer-makemoney/blob/master/LICENSE">
+		<img src="https://img.shields.io/apm/l/vim-mode.svg?color=yellow">
+	</a>
+	<a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html" rel="nofollow">
+		<img src="https://img.shields.io/badge/JDK-1.8+-green.svg">
+	</a>
+</p>	
+	
 </p>
-
 -------------------------------------------------------------------------------
-
-<p align="center">
-<p>猿大佬1群 已满</p>
-<p>猿大佬2群 已满</p>
-<p>猿大佬3群 已满</p>
-<p>猿大佬4群 已满</p>
-<p>猿大佬5群 已满</p>
-<p>猿大佬6群 已满</p>
-<p>猿大佬7群 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZAbazRyv3ggNdNAJdZl5Wnw46X5nKm2B&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="猿大佬7群" title="猿大佬7群"></a>
-</p>
-
--------------------------------------------------------------------------------
-
   
 
 ## 什么是 猿大佬？
-
 <a href="https://www.yuandalao.com" target="_blank">猿大佬（YuanDaLao)</a>是国内一家专注技术资源整合、垂直于软件技术服务领域的新型平台。平台聚集世界各地的优秀程序员，他们在各自的技术领域都有一定的建树，在线为中小微企业提供专业的技术服务。平台采用大数据，对技术和企业进行智能化匹配。秉承着
 
 最好的人做最好的事的原则。猿大佬平台不仅为雇主提供解决方案服务，还帮助广大IT从业人员实现真正意义上的**技术变现**，我们励志成为技术和企业的桥梁，让企业和技术人实现价值的最大化！
+
+
 
 ## 有哪些优势？
   1、海量用户流量：与tb、aliyun紧密合作。
@@ -45,8 +42,17 @@
   
 ## 有哪些项目？
  平台内包含商城、社区团购、OA、ERP、Saas、官网（门户店）、餐饮外卖、社交通讯、游戏、财务、只能工具、视频授课等多种系统，其中包括微信小程序、h5、pc、安卓、ios等多端载体！
-
-
+ 
+## 联系我们
+ <p align="center">
+<p>猿大佬1群 已满</p>
+<p>猿大佬2群 已满</p>
+<p>猿大佬3群 已满</p>
+<p>猿大佬4群 已满</p>
+<p>猿大佬5群 已满</p>
+<p>猿大佬6群 已满</p>
+<p>猿大佬7群 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZAbazRyv3ggNdNAJdZl5Wnw46X5nKm2B&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="猿大佬7群" title="猿大佬7群"></a>
+</p>
 -
 ## 快速开始
 
