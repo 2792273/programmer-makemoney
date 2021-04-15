@@ -1,16 +1,17 @@
 
 
+
 <p align="center">
 	<a href="https://www.yuandalao.com/#/index"><img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-fe88ac54-ee24-4fe0-a14c-fdf4e0a87f4d/ec66a3f7-2c9b-4c4d-baa9-7dbcdba111a9.png" width="400"></a>
 </p>
 <p align="center">
-	<strong>猿大佬助力技术同胞换现</strong>
+	<strong>猿大佬助力技术同胞变现</strong>
 </p>
 <p align="center">
 	
-   [猿大佬观网](https://www.yuandalao.com)
+   [猿大佬官网](https://www.yuandalao.com)
    
-   [技术换现后台](https://www.yuandalao.com/merchant)
+   [技术变线后台](https://www.yuandalao.com/merchant)
 <p>
 	<a target="_blank" href="https://github.com/yuandalao2020/yuandalao/blob/main/LICENSE">
 		<img src="https://img.shields.io/apm/l/vim-mode.svg?color=yellow">
@@ -45,16 +46,23 @@
   3、0抽成：无任何抽成，开发者赚多少，收入即为多少。
   
 ## 有哪些项目？
- 平台内包含商城、社区团购、OA、ERP、Saas、官网（门户店）、餐饮外卖、社交通讯、游戏、财务、只能工具、视频授课等多种系统，其中包括微信小程序、h5、pc、安卓、ios等多端载体！
+ 平台内包含商城、社区团购、OA、ERP、Saas、官网（门户店）、餐饮外卖、社交通讯、游戏、财务、只能工具、视频授课等多种系统，其中包括微信小程序、h5、pc、安卓、ios..等多端载体！
+## 案例
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2021041511430528.gif#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210415114333301.gif#pic_center)
+
+## [开始变现](https://www.yuandalao.com/settled/#/)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210415114643647.gif#pic_center)
+
  
 ## 联系我们
-猿大佬1群 已满</br>
-猿大佬2群 已满</br>
-猿大佬3群 已满</br>
-猿大佬4群 已满</br>
-猿大佬5群 已满</br>
-猿大佬6群 已满</br>
-猿大佬7群 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZAbazRyv3ggNdNAJdZl5Wnw46X5nKm2B&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="猿大佬7群" title="猿大佬7群"></a>
+<p>猿大佬1群 已满</p>
+<p>猿大佬2群 已满</p>
+<p>猿大佬3群 已满</p>
+<p>猿大佬4群 已满</p>
+<p>猿大佬5群 已满</p>
+<p>猿大佬6群 已满</p>
+<p>猿大佬7群 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZAbazRyv3ggNdNAJdZl5Wnw46X5nKm2B&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="猿大佬7群" title="猿大佬7群"></a>
 
 
 ## 快速开始
@@ -77,6 +85,5 @@
 
 
 
-### ProductHunt
 
-<a href="https://www.producthunt.com/posts/justauth?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-justauth" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=196886&theme=dark" alt="JustAuth - Login, so easy! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
