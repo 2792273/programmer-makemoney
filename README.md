@@ -32,9 +32,7 @@
   
 
 ## 什么是 [猿大佬](https://gitee.com/yuandalao_official/yuandalao)？
-<a href="https://www.yuandalao.com" target="_blank">猿大佬（YuanDaLao)</a>是国内一家专注技术资源整合、垂直于软件技术服务领域的新型平台。平台聚集世界各地的优秀程序员，他们在各自的技术领域都有一定的建树，在线为中小微企业提供专业的技术服务。平台采用大数据，对技术和企业进行智能化匹配。秉承着
-
-最好的人做最好的事的原则。猿大佬平台不仅为雇主提供解决方案服务，还帮助广大IT从业人员实现真正意义上的**技术变现**，我们励志成为技术和企业的桥梁，让企业和技术人实现价值的最大化！
+<a href="https://www.yuandalao.com" target="_blank">猿大佬（YuanDaLao)</a>是国内一家专注技术资源整合、垂直于软件技术服务领域的新型平台。平台聚集世界各地的优秀程序员，他们在各自的技术领域都有一定的建树，在线为中小微企业提供专业的技术服务。平台采用大数据，对技术和企业进行智能化匹配。秉承着最好的人做最好的事的原则。猿大佬平台不仅为雇主提供解决方案服务，还帮助广大IT从业人员实现真正意义上的**技术变现**，我们励志成为技术和企业的桥梁，让企业和技术人实现价值的最大化！
 
 
 
@@ -46,7 +44,11 @@
   3、0抽成：无任何抽成，开发者赚多少，收入即为多少。
   
 ## 有哪些项目？
- 平台内包含商城、社区团购、OA、ERP、Saas、官网（门户店）、餐饮外卖、社交通讯、游戏、财务、智能工具、API、视频授课等多种系统，其中包括微信小程序、h5、pc、安卓、ios..等多端载体！
+ 平台内包含商城、社区团购、OA、ERP、SAAS、B2C、CMS、CPS、官网（门户店）、餐饮外卖、社交通讯、游戏、财务、直播、短视频、智能工具、配送跑腿、知识付费、视频授课等多种系统，其中包括微信小程序（支付宝小程序 + 百度小程序 + 头条号小程序）、h5、pc、安卓Android、苹果ios、微信公众号..等多端载体！
+ 后台包含商品管理、订单管理、运费模板、规格管理、会员管理、运营管理、内容管理、统计报表、权限管理、设置等模块、商品添加、规格设置、商品上下架，下单、购物车、支付，发货、收货、评价、退款，积分、优惠券、分销、砍价、秒杀、多门店，自定义菜单、自动回复、微信授权、图文管理、模板消息推送，登陆、注册、会员卡、充值、插件管理、签到管理、轮播图管理、新闻管理、页面管理、公告管理、系统管理、拼团活动、抽奖管理、邀请有奖管理、线下核销、竞拍、订单打印、商家WEB、控制面板、物流公司管理、阿里云OSS插件、阿里云短信插件、智能表单、可视化操作、布局管理、留言、在线报名、上课签到、活动预约、会议登记、api接口、商品详情页、自定义分配佣金比例、外卖红包、裂变分销、联盟返利、团长审核、常见问题、限时折扣、交易概况、cvs素材、快递订单、社群接龙、城市管理、供应商、采购模块、采购备货、售后服务、库存模块、对帐报价模块、商品分拣
+
+## 运用哪些技术？
+   SpringBoot2、mybatis、MyBatis-Plus、SpringSecurity、Druid、Slf4j、Fastjson、JWT、Redis、Quartz、Mysql、swagger、WxJava、Lombok、Hutool、Vue、Element、uniapp、PHP、Thinkphp、RBAC、Nginx、CentOS、SpringCloud Finchley、Spring Cloud Alibaba、oauth2、分布式、LayUi、ElementUi、钩子、组件、zookeeper、dubbo、Apache Shiro、Freemarker、J2cache、LogBack、Apache Commons、HuTools、Spring MVC、bootstrap-select、Bootstrap File Input、jrebel、hibernate-validator、JDK1.8、Tomcat、Maven、Spring data mongodb、Ehcache、Elasticsearch、RabbitMq、XXL-JOB、Jenkins、Docker、Vue-router、vuex、modeuse-core、TypeScript、eslint、hook、vartweapp、golang、react、.Net WCF、jQuery、Ajax、EasyUI、Webhook
 ## 案例
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2021041511430528.gif#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210415114333301.gif#pic_center)
