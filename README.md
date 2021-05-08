@@ -9,9 +9,10 @@
 </p>
 <p align="center">
 	
-   [猿大佬官网](https://www.yuandalao.com)
+   [变现入口](https://www.yuandalao.com/merchant/#/yuanhall)
+
+   [猿大佬](https://www.yuandalao.com)
    
-   [技术变线后台](https://www.yuandalao.com/merchant)
 <p>
 	<a target="_blank" href="https://github.com/yuandalao2020/yuandalao/blob/main/LICENSE">
 		<img src="https://img.shields.io/apm/l/vim-mode.svg?color=yellow">
@@ -32,7 +33,7 @@
   
 
 ## 什么是 [猿大佬](https://gitee.com/yuandalao_official/yuandalao)？
-<a href="https://www.yuandalao.com" target="_blank">猿大佬（YuanDaLao)</a>是国内一家专注技术资源整合、垂直于软件技术服务领域的新型平台。平台聚集世界各地的优秀程序员，他们在各自的技术领域都有一定的建树，在线为中小微企业提供专业的技术服务。平台采用大数据，对技术和企业进行智能化匹配。秉承着最好的人做最好的事的原则。猿大佬平台不仅为雇主提供解决方案服务，还帮助广大IT从业人员实现真正意义上的**技术变现**，我们励志成为技术和企业的桥梁，让企业和技术人实现价值的最大化！
+<a href="https://www.yuandalao.com" target="_blank">猿大佬（yuandalao.com)</a>是国内一家专注技术资源整合、垂直于软件技术服务领域的新型平台。平台聚集世界各地的优秀程序员，他们在各自的技术领域都有一定的建树，在线为中小微企业提供专业的技术服务。平台采用大数据，对技术和企业进行智能化匹配。秉承着最好的人做最好的事的原则。猿大佬平台不仅为雇主提供解决方案服务，还帮助广大IT从业人员实现真正意义上的**技术变现**，我们励志成为技术和企业的桥梁，让企业和技术人实现价值的最大化！
 
 
 
