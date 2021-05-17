@@ -2,14 +2,14 @@
 
 
 <p align="center">
-	<a href="https://www.yuandalao.com/#/index"><img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-fe88ac54-ee24-4fe0-a14c-fdf4e0a87f4d/ec66a3f7-2c9b-4c4d-baa9-7dbcdba111a9.png" width="400"></a>
+	<a href="https://www.yuandalao.com/index"><img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-fe88ac54-ee24-4fe0-a14c-fdf4e0a87f4d/ec66a3f7-2c9b-4c4d-baa9-7dbcdba111a9.png" width="400"></a>
 </p>
 <p align="center">
 	<strong>猿大佬助力技术同胞变现</strong>
 </p>
 <p align="center">
 	
-   [变现入口](https://www.yuandalao.com/merchant/#/yuanhall)
+   [变现入口](https://www.yuandalao.com/merchant/yuanhall)
 
    [猿大佬](https://www.yuandalao.com)
    
@@ -54,7 +54,7 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2021041511430528.gif#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210415114333301.gif#pic_center)
 
-## [开始变现](https://www.yuandalao.com/settled/#/)
+## [开始变现](https://www.yuandalao.com/settled/)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210415114643647.gif#pic_center)
 
  
